@@ -1,4 +1,5 @@
 Skin Disease Classification and Severity Detection using CNN and HAM10000 Dataset
+
 This project uses deep learning models to classify seven types of skin diseases and detect their severity (mild, moderate, or severe). Trained on the HAM10000 dataset, the system employs Convolutional Neural Networks (CNNs) and is deployed via a user-friendly Streamlit web application. It aims to assist in early dermatological diagnostics and promote accessible skin health monitoring.
 
 ✅ Key Features
