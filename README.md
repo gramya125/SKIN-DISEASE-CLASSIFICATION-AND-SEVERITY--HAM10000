@@ -57,3 +57,7 @@ OpenCV
 Streamlit
 
 scikit-learn
+
+STREAMLIT :
+![image](https://github.com/user-attachments/assets/3ae5d500-3ff0-40e8-8f0d-9e626d21e168)
+
