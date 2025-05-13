@@ -56,16 +56,3 @@ OpenCV
 Streamlit
 
 scikit-learn
-
-(Dependencies listed in requirements.txt)
-
-Installation Steps
-Clone the repository:
-git clone https://github.com/yourusername/Skin-Disease-CNN-Streamlit.git
-cd Skin-Disease-CNN-Streamlit
-
-Install dependencies:
-pip install -r requirements.txt
-
-Run the application:
-streamlit run app/streamlit_app.py
